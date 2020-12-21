@@ -9,6 +9,7 @@ dependencies {
 
 compileKotlin {
 	kotlinOptions {
-		freeCompilerArgs = ["-XXLanguage:+InlineClasses"]
+		freeCompilerArgs = ['-XXLanguage:+InlineClasses']
+		freeCompilerArgs = ['-Xopt-in=kotlin.contracts.ExperimentalContracts']
 	}
 }
