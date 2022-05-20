@@ -4,4 +4,8 @@ ext {
 	// rx
 	rxjava_version = '2.2.9'
 	rxkotlin_version = '2.3.0'
+
+	// test
+	mockk_version = '1.12.3'
+	google_truth_version = "0.42"
 }
