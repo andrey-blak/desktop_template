@@ -1,4 +1,5 @@
 package com.example
 
-fun main() {
+@Suppress("RedundantUnitReturnType")
+fun main(): Unit {
 }
