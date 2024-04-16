@@ -1,6 +1,8 @@
 ext {
 	kotlin_version = '1.5.31'
 
+	coroutines_version = '1.5.1'
+
 	// rx
 	rxjava_version = '2.2.9'
 	rxkotlin_version = '2.3.0'
